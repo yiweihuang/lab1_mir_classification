@@ -1,0 +1,160 @@
+C:1 , Gamma:0.00142857142857 
+             precision    recall  f1-score   support
+
+     guitar       0.67      0.50      0.57        36
+     violin       0.71      0.61      0.66        36
+      piano       0.76      0.58      0.66        45
+      voice       0.56      0.88      0.68        43
+
+avg / total       0.67      0.65      0.65       160
+
+C:1 , Gamma:0.00166666666667 
+             precision    recall  f1-score   support
+
+     guitar       0.68      0.53      0.59        36
+     violin       0.70      0.58      0.64        36
+      piano       0.75      0.60      0.67        45
+      voice       0.58      0.88      0.70        43
+
+avg / total       0.68      0.66      0.65       160
+
+C:1 , Gamma:0.00200000000000 
+             precision    recall  f1-score   support
+
+     guitar       0.66      0.53      0.58        36
+     violin       0.71      0.61      0.66        36
+      piano       0.77      0.60      0.68        45
+      voice       0.58      0.88      0.70        43
+
+avg / total       0.68      0.66      0.66       160
+
+C:1 , Gamma:0.00222222222222 
+             precision    recall  f1-score   support
+
+     guitar       0.68      0.53      0.59        36
+     violin       0.71      0.61      0.66        36
+      piano       0.77      0.60      0.68        45
+      voice       0.58      0.88      0.70        43
+
+avg / total       0.68      0.66      0.66       160
+
+C:10 , Gamma:0.00142857142857 
+             precision    recall  f1-score   support
+
+     guitar       0.65      0.67      0.66        36
+     violin       0.83      0.53      0.64        36
+      piano       0.74      0.71      0.73        45
+      voice       0.67      0.88      0.76        43
+
+avg / total       0.72      0.71      0.70       160
+
+C:10 , Gamma:0.00166666666667 
+             precision    recall  f1-score   support
+
+     guitar       0.64      0.64      0.64        36
+     violin       0.80      0.56      0.66        36
+      piano       0.73      0.71      0.72        45
+      voice       0.69      0.88      0.78        43
+
+avg / total       0.71      0.71      0.70       160
+
+C:10 , Gamma:0.00200000000000 
+             precision    recall  f1-score   support
+
+     guitar       0.66      0.69      0.68        36
+     violin       0.81      0.58      0.68        36
+      piano       0.76      0.71      0.74        45
+      voice       0.70      0.88      0.78        43
+
+avg / total       0.73      0.72      0.72       160
+
+C:10 , Gamma:0.00222222222222 
+             precision    recall  f1-score   support
+
+     guitar       0.68      0.72      0.70        36
+     violin       0.81      0.58      0.68        36
+      piano       0.79      0.73      0.76        45
+      voice       0.70      0.88      0.78        43
+
+avg / total       0.75      0.74      0.73       160
+
+C:100 , Gamma:0.00142857142857 
+             precision    recall  f1-score   support
+
+     guitar       0.66      0.69      0.68        36
+     violin       0.78      0.58      0.67        36
+      piano       0.77      0.76      0.76        45
+      voice       0.73      0.86      0.79        43
+
+avg / total       0.74      0.73      0.73       160
+
+C:100 , Gamma:0.00166666666667 
+             precision    recall  f1-score   support
+
+     guitar       0.64      0.69      0.67        36
+     violin       0.77      0.56      0.65        36
+      piano       0.77      0.76      0.76        45
+      voice       0.73      0.86      0.79        43
+
+avg / total       0.73      0.72      0.72       160
+
+C:100 , Gamma:0.00200000000000 
+             precision    recall  f1-score   support
+
+     guitar       0.68      0.69      0.68        36
+     violin       0.79      0.61      0.69        36
+      piano       0.77      0.76      0.76        45
+      voice       0.73      0.86      0.79        43
+
+avg / total       0.74      0.74      0.74       160
+
+C:100 , Gamma:0.00222222222222 
+             precision    recall  f1-score   support
+
+     guitar       0.67      0.72      0.69        36
+     violin       0.79      0.61      0.69        36
+      piano       0.77      0.73      0.75        45
+      voice       0.74      0.86      0.80        43
+
+avg / total       0.74      0.74      0.74       160
+
+C:1000 , Gamma:0.00142857142857 
+             precision    recall  f1-score   support
+
+     guitar       0.63      0.75      0.68        36
+     violin       0.88      0.61      0.72        36
+      piano       0.82      0.73      0.78        45
+      voice       0.75      0.91      0.82        43
+
+avg / total       0.77      0.76      0.76       160
+
+C:1000 , Gamma:0.00166666666667 
+             precision    recall  f1-score   support
+
+     guitar       0.67      0.78      0.72        36
+     violin       0.77      0.64      0.70        36
+      piano       0.85      0.76      0.80        45
+      voice       0.77      0.86      0.81        43
+
+avg / total       0.77      0.76      0.76       160
+
+C:1000 , Gamma:0.00200000000000 
+             precision    recall  f1-score   support
+
+     guitar       0.66      0.81      0.73        36
+     violin       0.77      0.64      0.70        36
+      piano       0.87      0.76      0.81        45
+      voice       0.77      0.84      0.80        43
+
+avg / total       0.77      0.76      0.76       160
+
+C:1000 , Gamma:0.00222222222222 
+             precision    recall  f1-score   support
+
+     guitar       0.62      0.81      0.70        36
+     violin       0.79      0.61      0.69        36
+      piano       0.87      0.73      0.80        45
+      voice       0.79      0.86      0.82        43
+
+avg / total       0.77      0.76      0.76       160
+
