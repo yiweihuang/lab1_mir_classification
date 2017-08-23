@@ -148,7 +148,7 @@ feature = 'feature/'
 audiolist = ["guitar", "piano", "violin", "voice", "test"]
 music = {}
 
-#first, creat a structure array for iterating thru the audio files
+# first, creat a structure array for iterating thru the audio files
 for instruments in audiolist:
     musicdata = []
     for filename in os.listdir(audio + instruments):
@@ -224,14 +224,14 @@ for c in C:
 
         run_test_file(detail_feature["num_to_label"], c, g)
 
-#Q1
+# Q1
 # plotstft(music["piano"][0]["wavedata"], music["piano"][0]["samplerate"])
 
-#Q2
+# Q2
 # plotstft(music["guitar"][0]["wavedata"], music["guitar"][0]["samplerate"])
 # plotstft(music["violin"][0]["wavedata"], music["violin"][0]["samplerate"])
 
-#Q4
+# Q4
 # c = 1000
 # g = float(1) / (450)
 # classifier = svm.SVC(kernel='rbf', gamma=(float(1) / (450)), C=1000)
